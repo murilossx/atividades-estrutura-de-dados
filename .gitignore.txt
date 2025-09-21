@@ -1,19 +1,7 @@
-# Arquivos de build e executáveis
+# Ignorar arquivos de build do C/C++
 *.exe
 *.o
 *.out
-*.dll
-*.so
 
-# Pasta de build (se você usar uma)
-build/
-bin/
-
-# Arquivos de configuração de editores de código populares
+# Ignorar pasta de configuração do VS Code
 .vscode/
-.idea/
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.swp
