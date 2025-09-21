@@ -1,0 +1,19 @@
+# Arquivos de build e executáveis
+*.exe
+*.o
+*.out
+*.dll
+*.so
+
+# Pasta de build (se você usar uma)
+build/
+bin/
+
+# Arquivos de configuração de editores de código populares
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
